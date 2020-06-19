@@ -1,4 +1,4 @@
-var url = "./RealBallPenCatalogue.pdf";
+var url = "https://drive.google.com/file/d/1ickrcPfaJR9Qlft68-ahmQ4q3N8fEk-l/view";
 
 var pdfjsLib = window["pdfjs-dist/build/pdf"];
 pdfjsLib.GlobalWorkerOptions.workerSrc =
